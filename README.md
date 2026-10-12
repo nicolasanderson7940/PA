@@ -1,58 +1,34 @@
 # 📚 Programação de Algoritmos (PA)
 
-Repositório dedicado à organização de exercícios e atividades de programação desenvolvidos durante os estudos de lógica de programação.
+Repositório dedicado à organização de atividades e exercícios de programação desenvolvidos durante os estudos.
 
 ## 📋 Sobre o Projeto
 
-O **PA** reúne atividades práticas realizadas para desenvolver o raciocínio lógico e compreender os fundamentos da programação.
+Este repositório reúne diversas atividades práticas realizadas ao longo do aprendizado de programação, com o objetivo de desenvolver o raciocínio lógico e aprimorar os conhecimentos na área.
 
-Os exercícios estão organizados em pastas, facilitando a separação e a consulta das atividades ao longo do aprendizado.
+Os exercícios são organizados em pastas para facilitar o acesso, a consulta e o acompanhamento da evolução dos estudos.
 
 ## 🎯 Objetivos
 
 * Praticar lógica de programação.
-* Desenvolver soluções para exercícios propostos em aula.
-* Compreender estruturas de repetição.
-* Exercitar a organização do código.
-* Registrar a evolução dos estudos de programação.
+* Desenvolver o raciocínio lógico.
+* Aplicar os conceitos estudados em aula.
+* Resolver problemas por meio de exercícios práticos.
+* Organizar as atividades desenvolvidas durante o aprendizado.
 
-## 📂 Organização do Repositório
+## 🛠️ Conteúdo
 
-O repositório contém as seguintes pastas:
+O repositório reúne atividades de diferentes conteúdos de programação, acompanhando os assuntos estudados ao longo das aulas.
 
-| Pasta                         | Finalidade                                                       |
-| ----------------------------- | ---------------------------------------------------------------- |
-| `EXERCICIOS_DE_PA_ATUALIZADO` | Reúne uma coleção de exercícios de Programação de Algoritmos.    |
-| `While`                       | Agrupa atividades relacionadas à estrutura de repetição `while`. |
-| `dowhile`                     | Agrupa atividades relacionadas à estrutura `do-while`.           |
-
-## 🛠️ Conteúdos de Estudo
-
-Entre os assuntos identificados pela organização das pastas estão:
-
-* Lógica de programação.
-* Estruturas de repetição.
-* Utilização de condições para controlar repetições.
-* Resolução de problemas por meio de exercícios práticos.
-
-## ▶️ Como Acessar os Exercícios
+## ▶️ Como Acessar
 
 1. Clone o repositório ou faça o download dos arquivos.
-2. Abra a pasta do projeto no ambiente de desenvolvimento compatível com os arquivos.
-3. Escolha a pasta da atividade que deseja consultar.
-4. Abra os arquivos e execute os exercícios conforme a linguagem e o ambiente utilizados.
-
-### Clonar o repositório
-
-```bash
-git clone https://github.com/nicolasanderson7940/PA.git
-```
+2. Abra a pasta do projeto no ambiente de desenvolvimento compatível.
+3. Escolha a atividade desejada e consulte seus arquivos.
 
 ## 📖 Finalidade Educacional
 
-Este repositório tem finalidade educacional e serve como registro das atividades práticas realizadas durante o aprendizado de programação.
-
-Os exercícios podem ser consultados para acompanhar a evolução dos estudos e revisar os conceitos trabalhados em aula.
+Este repositório tem como finalidade registrar e organizar as atividades desenvolvidas durante os estudos de Programação de Algoritmos, servindo como material de consulta e acompanhamento do aprendizado.
 
 ## 👨‍💻 Autor
 
@@ -62,4 +38,4 @@ Os exercícios podem ser consultados para acompanhar a evolução dos estudos e 
 
 ---
 
-Repositório desenvolvido para praticar e aprimorar conhecimentos em programação.
+Desenvolvido para praticar e aprimorar conhecimentos em programação.
